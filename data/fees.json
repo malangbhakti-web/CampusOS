@@ -1,0 +1,18 @@
+{
+  "total_fee": 120000.0,
+  "due_date": "2026-08-15",
+  "payment_history": [
+    {
+      "date": "2026-01-10",
+      "amount": 60000.0,
+      "mode": "Online Transfer",
+      "receipt_no": "RC-2026-0001"
+    },
+    {
+      "date": "2026-04-05",
+      "amount": 30000.0,
+      "mode": "UPI",
+      "receipt_no": "RC-2026-0042"
+    }
+  ]
+}

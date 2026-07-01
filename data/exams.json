@@ -1,0 +1,52 @@
+{
+  "exams": [
+    {
+      "subject": "Data Structures & Algorithms",
+      "exam_type": "Midterm",
+      "date": "2026-03-10",
+      "max_marks": 50,
+      "obtained_marks": 42,
+      "status": "Completed"
+    },
+    {
+      "subject": "Operating Systems",
+      "exam_type": "Midterm",
+      "date": "2026-03-12",
+      "max_marks": 50,
+      "obtained_marks": 36,
+      "status": "Completed"
+    },
+    {
+      "subject": "Database Management Systems",
+      "exam_type": "Midterm",
+      "date": "2026-03-14",
+      "max_marks": 50,
+      "obtained_marks": 45,
+      "status": "Completed"
+    },
+    {
+      "subject": "Computer Networks",
+      "exam_type": "Final",
+      "date": "2026-07-15",
+      "max_marks": 100,
+      "obtained_marks": null,
+      "status": "Scheduled"
+    },
+    {
+      "subject": "Software Engineering",
+      "exam_type": "Final",
+      "date": "2026-07-17",
+      "max_marks": 100,
+      "obtained_marks": null,
+      "status": "Scheduled"
+    },
+    {
+      "subject": "Data Structures & Algorithms",
+      "exam_type": "Final",
+      "date": "2026-07-20",
+      "max_marks": 100,
+      "obtained_marks": null,
+      "status": "Scheduled"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "entries": [
+    {
+      "day": "Monday",
+      "subject": "Data Structures & Algorithms",
+      "type": "Lecture",
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "room": "CS-101",
+      "instructor": "Dr. Rajesh Mehta"
+    },
+    {
+      "day": "Monday",
+      "subject": "Operating Systems",
+      "type": "Lecture",
+      "start_time": "10:15",
+      "end_time": "11:15",
+      "room": "CS-102",
+      "instructor": "Dr. Neha Kulkarni"
+    },
+    {
+      "day": "Monday",
+      "subject": "Database Management Systems",
+      "type": "Lab",
+      "start_time": "11:30",
+      "end_time": "13:00",
+      "room": "CS-Lab-1",
+      "instructor": "Prof. Aman Verma"
+    },
+    {
+      "day": "Tuesday",
+      "subject": "Computer Networks",
+      "type": "Lecture",
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "room": "CS-103",
+      "instructor": "Dr. Sunita Rao"
+    },
+    {
+      "day": "Tuesday",
+      "subject": "Software Engineering",
+      "type": "Lecture",
+      "start_time": "10:15",
+      "end_time": "11:15",
+      "room": "CS-104",
+      "instructor": "Prof. Kiran Joshi"
+    },
+    {
+      "day": "Tuesday",
+      "subject": "Data Structures & Algorithms",
+      "type": "Tutorial",
+      "start_time": "14:00",
+      "end_time": "15:00",
+      "room": "CS-101",
+      "instructor": "Dr. Rajesh Mehta"
+    },
+    {
+      "day": "Wednesday",
+      "subject": "Operating Systems",
+      "type": "Lecture",
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "room": "CS-102",
+      "instructor": "Dr. Neha Kulkarni"
+    },
+    {
+      "day": "Wednesday",
+      "subject": "Computer Networks",
+      "type": "Lab",
+      "start_time": "10:15",
+      "end_time": "12:15",
+      "room": "CS-Lab-2",
+      "instructor": "Dr. Sunita Rao"
+    },
+    {
+      "day": "Wednesday",
+      "subject": "Software Engineering",
+      "type": "Tutorial",
+      "start_time": "13:00",
+      "end_time": "14:00",
+      "room": "CS-104",
+      "instructor": "Prof. Kiran Joshi"
+    },
+    {
+      "day": "Thursday",
+      "subject": "Database Management Systems",
+      "type": "Lecture",
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "room": "CS-105",
+      "instructor": "Prof. Aman Verma"
+    },
+    {
+      "day": "Thursday",
+      "subject": "Data Structures & Algorithms",
+      "type": "Lecture",
+      "start_time": "10:15",
+      "end_time": "11:15",
+      "room": "CS-101",
+      "instructor": "Dr. Rajesh Mehta"
+    },
+    {
+      "day": "Thursday",
+      "subject": "Software Engineering",
+      "type": "Practical",
+      "start_time": "11:30",
+      "end_time": "13:30",
+      "room": "CS-Lab-3",
+      "instructor": "Prof. Kiran Joshi"
+    },
+    {
+      "day": "Friday",
+      "subject": "Computer Networks",
+      "type": "Lecture",
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "room": "CS-103",
+      "instructor": "Dr. Sunita Rao"
+    },
+    {
+      "day": "Friday",
+      "subject": "Database Management Systems",
+      "type": "Tutorial",
+      "start_time": "10:15",
+      "end_time": "11:15",
+      "room": "CS-105",
+      "instructor": "Prof. Aman Verma"
+    },
+    {
+      "day": "Friday",
+      "subject": "Operating Systems",
+      "type": "Lecture",
+      "start_time": "11:30",
+      "end_time": "12:30",
+      "room": "CS-102",
+      "instructor": "Dr. Neha Kulkarni"
+    },
+    {
+      "day": "Saturday",
+      "subject": "Data Structures & Algorithms",
+      "type": "Lab",
+      "start_time": "09:00",
+      "end_time": "11:00",
+      "room": "CS-Lab-1",
+      "instructor": "Dr. Rajesh Mehta"
+    }
+  ]
+}

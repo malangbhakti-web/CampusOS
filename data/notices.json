@@ -1,0 +1,58 @@
+{
+  "notices": [
+    {
+      "id": "N001",
+      "title": "Mid-Semester Examination Schedule Released",
+      "category": "Examination",
+      "date": "2026-06-20",
+      "body": "The mid-semester examination schedule for Semester 5 has been released. Students are advised to check the timetable on the portal and report discrepancies to the Exam Cell before 25th June.",
+      "is_read": false,
+      "is_important": true
+    },
+    {
+      "id": "N002",
+      "title": "Fee Payment Deadline Reminder",
+      "category": "Fee",
+      "date": "2026-06-18",
+      "body": "This is a reminder that the last date for fee submission for the academic year 2026-27 is 15th August 2026. Late payment will attract a penalty of Rs. 500 per week.",
+      "is_read": true,
+      "is_important": true
+    },
+    {
+      "id": "N003",
+      "title": "Cultural Fest Registrations Open",
+      "category": "Event",
+      "date": "2026-06-15",
+      "body": "Registrations for CampusFest 2026 are now open. Students can register for up to three events. Visit the Student Council office or register online through the campus portal.",
+      "is_read": false,
+      "is_important": false
+    },
+    {
+      "id": "N004",
+      "title": "Library Timing Change During Exams",
+      "category": "General",
+      "date": "2026-06-14",
+      "body": "The central library will remain open from 7 AM to 11 PM during the examination period from 1st July to 20th July 2026.",
+      "is_read": true,
+      "is_important": false
+    },
+    {
+      "id": "N005",
+      "title": "Guest Lecture: AI in Healthcare",
+      "category": "Academic",
+      "date": "2026-06-12",
+      "body": "A guest lecture by Dr. Priya Nair from IIT Bombay on the topic 'AI in Healthcare' is scheduled for 28th June at 11 AM in Seminar Hall B. Attendance is open to all CS and IT students.",
+      "is_read": false,
+      "is_important": false
+    },
+    {
+      "id": "N006",
+      "title": "Scholarship Application Portal Open",
+      "category": "Academic",
+      "date": "2026-06-10",
+      "body": "Students eligible for merit and need-based scholarships can submit applications through the scholarship portal from 10th June to 10th July 2026. Required documents must be uploaded in PDF format.",
+      "is_read": false,
+      "is_important": true
+    }
+  ]
+}

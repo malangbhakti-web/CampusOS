@@ -1,0 +1,29 @@
+{
+  "subjects": [
+    {
+      "subject": "Data Structures & Algorithms",
+      "total_classes": 40,
+      "attended_classes": 36
+    },
+    {
+      "subject": "Operating Systems",
+      "total_classes": 38,
+      "attended_classes": 30
+    },
+    {
+      "subject": "Database Management Systems",
+      "total_classes": 35,
+      "attended_classes": 33
+    },
+    {
+      "subject": "Computer Networks",
+      "total_classes": 36,
+      "attended_classes": 25
+    },
+    {
+      "subject": "Software Engineering",
+      "total_classes": 30,
+      "attended_classes": 28
+    }
+  ]
+}

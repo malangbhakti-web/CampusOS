@@ -1,0 +1,15 @@
+{
+  "name": "Malan Bhakti",
+  "enrollment_number": "CS2023001",
+  "department": "Computer Science",
+  "semester": 5,
+  "email": "malan@example.com",
+  "cgpa": 8.75,
+  "subjects": [
+    "Data Structures & Algorithms",
+    "Operating Systems",
+    "Database Management Systems",
+    "Computer Networks",
+    "Software Engineering"
+  ]
+}
